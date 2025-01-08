@@ -1,0 +1,75 @@
+2024-10-30 05:15:34,935 - Fold 1, Epoch 1/3 - Training Loss: 0.2987, Validation Loss: 0.1113, Validation F1 Score: 0.9093
+2024-10-30 06:32:51,270 - Fold 1, Epoch 2/3 - Training Loss: 0.0752, Validation Loss: 0.0992, Validation F1 Score: 0.9194
+2024-10-30 07:50:11,403 - Fold 1, Epoch 3/3 - Training Loss: 0.0444, Validation Loss: 0.0649, Validation F1 Score: 0.9448
+2024-10-30 07:56:27,492 - Classification Report for Fold 1:
+              precision    recall  f1-score   support
+
+        Male       0.98      0.94      0.96       417
+      Female       0.91      0.98      0.94       418
+  Non-binary       0.96      0.97      0.96       418
+     Neutral       0.94      0.89      0.92       417
+
+    accuracy                           0.94      1670
+   macro avg       0.95      0.94      0.94      1670
+weighted avg       0.95      0.94      0.94      1670
+
+2024-10-30 09:14:17,986 - Fold 2, Epoch 1/3 - Training Loss: 0.3128, Validation Loss: 0.1255, Validation F1 Score: 0.8974
+2024-10-30 10:31:54,940 - Fold 2, Epoch 2/3 - Training Loss: 0.1029, Validation Loss: 0.0863, Validation F1 Score: 0.9272
+2024-10-30 11:41:07,020 - Fold 2, Epoch 3/3 - Training Loss: 0.0614, Validation Loss: 0.0779, Validation F1 Score: 0.9284
+2024-10-30 11:46:52,298 - Classification Report for Fold 2:
+              precision    recall  f1-score   support
+
+        Male       0.93      0.95      0.94       417
+      Female       0.92      0.94      0.93       418
+  Non-binary       0.93      0.96      0.94       417
+     Neutral       0.94      0.87      0.90       418
+
+    accuracy                           0.93      1670
+   macro avg       0.93      0.93      0.93      1670
+weighted avg       0.93      0.93      0.93      1670
+
+2024-10-30 13:12:27,104 - Fold 3, Epoch 1/3 - Training Loss: 0.2791, Validation Loss: 0.1055, Validation F1 Score: 0.9149
+2024-10-30 14:31:50,646 - Fold 3, Epoch 2/3 - Training Loss: 0.0782, Validation Loss: 0.0748, Validation F1 Score: 0.9356
+2024-10-30 15:46:58,141 - Fold 3, Epoch 3/3 - Training Loss: 0.0449, Validation Loss: 0.0680, Validation F1 Score: 0.9370
+2024-10-30 15:52:45,326 - Classification Report for Fold 3:
+              precision    recall  f1-score   support
+
+        Male       0.94      0.94      0.94       418
+      Female       0.92      0.93      0.92       417
+  Non-binary       0.96      0.98      0.97       417
+     Neutral       0.93      0.91      0.92       418
+
+    accuracy                           0.94      1670
+   macro avg       0.94      0.94      0.94      1670
+weighted avg       0.94      0.94      0.94      1670
+
+2024-10-30 17:09:39,966 - Fold 4, Epoch 1/3 - Training Loss: 0.2539, Validation Loss: 0.1124, Validation F1 Score: 0.8966
+2024-10-30 18:31:12,929 - Fold 4, Epoch 2/3 - Training Loss: 0.0716, Validation Loss: 0.0782, Validation F1 Score: 0.9303
+2024-10-30 19:56:15,876 - Fold 4, Epoch 3/3 - Training Loss: 0.0425, Validation Loss: 0.0798, Validation F1 Score: 0.9333
+2024-10-30 20:03:05,173 - Classification Report for Fold 4:
+              precision    recall  f1-score   support
+
+        Male       0.96      0.93      0.95       418
+      Female       0.91      0.96      0.93       417
+  Non-binary       0.94      0.95      0.95       417
+     Neutral       0.91      0.88      0.89       417
+
+    accuracy                           0.93      1669
+   macro avg       0.93      0.93      0.93      1669
+weighted avg       0.93      0.93      0.93      1669
+
+2024-10-30 21:28:23,549 - Fold 5, Epoch 1/3 - Training Loss: 0.2822, Validation Loss: 0.1164, Validation F1 Score: 0.9026
+2024-10-30 22:54:44,523 - Fold 5, Epoch 2/3 - Training Loss: 0.0946, Validation Loss: 0.0837, Validation F1 Score: 0.9320
+2024-10-31 00:24:11,701 - Fold 5, Epoch 3/3 - Training Loss: 0.0575, Validation Loss: 0.0718, Validation F1 Score: 0.9355
+2024-10-31 00:32:08,057 - Classification Report for Fold 5:
+              precision    recall  f1-score   support
+
+        Male       0.96      0.92      0.94       417
+      Female       0.93      0.98      0.96       417
+  Non-binary       0.92      0.96      0.94       418
+     Neutral       0.93      0.88      0.91       417
+
+    accuracy                           0.94      1669
+   macro avg       0.94      0.94      0.94      1669
+weighted avg       0.94      0.94      0.94      1669
+
